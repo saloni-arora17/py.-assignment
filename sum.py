@@ -1,0 +1,11 @@
+#input from user
+a= (input("Enter first number:"))
+b= (input("Enter second number:"))
+sum =int(a)+int(b)
+print("The sumis:",sum)
+sub =int(a)-int(b)
+print("The sub is:",sub)
+mul =int(a)*int(b)
+print("The mul is:",mul)
+div =int(a)/int(b)
+print("The div is:",div)
